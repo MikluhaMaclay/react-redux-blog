@@ -12,3 +12,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.active {
+  color: blue
+}
+
+.post img {
+  position: absolute;
+  top: 0;
+  left: -140px;
+
+  height: 130px;
+  align-content: center
+}
+
+.post {
+
+  padding-left: 10px;
+}
